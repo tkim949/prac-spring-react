@@ -3,6 +3,16 @@ This is to learn React Spring and Postgres for school group project.
 
 I got the code from below Youtube lecture and its github code.
 
+__To start, you need to run `npm install`.__
+
+If this gives you something like to do `npm audit fix` but it is not working enough, you might need this.
+`npm cache clean --force`
+`npm update`
+`npm intall`
+`npm update` again!
+
+__This shows how to crearte your database and table__
+
 ![Prosgres-demo-1](https://github.com/tkim949/prac-spring-react/blob/main/images/postgres-demo-1.png)
 
 ![Postgres-demo-2](https://github.com/tkim949/prac-spring-react/blob/main/images/postgres-demo-2.png)
