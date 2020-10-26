@@ -7,4 +7,4 @@ I got the code from below Youtube lecture and its github code.
 https://www.youtube.com/watch?v=r-6BwGW4Sr8&t=467s
 
 
-But, I fixed some typos and changed the port number from 8080 to 8082, which is because I need to use the port number 8080 for another project. ^^;;
+But, I fixed some typos and syntax changes and also changed the port number from 8080 to 8082, which is because I need to use the port number 8080 for another project. ^^;;
