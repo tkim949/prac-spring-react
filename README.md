@@ -24,9 +24,9 @@ If this gives you something like to do `npm audit fix` but it is not working eno
 ![Postgres-demo-3](https://github.com/tkim949/prac-spring-react/blob/main/images/postgres-demo-3.png)
 
 
-3.  __And this show how to set your database name and server port.__
+3.  __And this shows how to set your database name and server port.__
 
-For this application, I choose `demo`.
+For this application, I chose `demo`.
 
 ![yml-file](https://github.com/tkim949/prac-spring-react/blob/main/images/application.yml-file-description.png)
 
